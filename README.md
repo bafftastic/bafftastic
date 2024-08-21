@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bafftastic</h1>
-<h3 align="center">Frontend/AI Dev and Cybersecurity Enthusiast</h3>
+<h3 align="center">Frontend, AI Dev and Cybersecurity Enthusiast</h3>
 
-- 🔭 I’m currently working on **HTML Emails, Transcription Software**
+- 🔭 I’m currently working on **HTML Emails, Transcription Software using voice-to-text models**
 
 - 🌱 I’m currently learning **Python**
 
-- 🤝 I’m looking for help with **English Documentation**
+- 🤝 I’m looking to help with **English Documentation**
 
 - 💬 Ask me about **AI models, Design, Frontend, Cybersecurity**
 
